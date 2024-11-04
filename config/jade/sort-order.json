@@ -67,6 +67,7 @@
   "supplementaries:hat_stand": null,
   "fluxnetworks:device_data_provider": null,
   "fluxnetworks:energy_storage_provider": null,
+  "camerapture:picture_frame": null,
   "ae2:server_data": null,
   "ae2:charger": null,
   "ae2:crafting_monitor": null,
