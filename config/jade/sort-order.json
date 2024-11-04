@@ -76,6 +76,8 @@
   "ae2:part_icon": null,
   "ae2:part_tooltip": null,
   "ae2:part_mod_name": null,
+  "fluxnetworks:device_data_provider": null,
+  "fluxnetworks:energy_storage_provider": null,
   "jade:object_name": null,
   "jade:registry_name": null,
   "jade:mod_name": null,
