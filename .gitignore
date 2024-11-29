@@ -1,11 +1,4 @@
 /*
-
 !.gitignore
 !README.MD
-!modlist.html
-
-!mods
-
-!config
-!resourcepacks
-!shaderpacks
+!world.zip.**
